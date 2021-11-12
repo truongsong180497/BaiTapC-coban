@@ -1,0 +1,14 @@
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.csproj.AssemblyReference.cache
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.AssemblyInfoInputs.cache
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.AssemblyInfo.cs
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.csproj.CoreCompileInputs.cache
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.exe
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.deps.json
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.runtimeconfig.json
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.runtimeconfig.dev.json
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.dll
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\bin\Debug\netcoreapp3.1\Trương Song.pdb
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.dll
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.pdb
+D:\Bài tập lập trình căn bản với c#\Trương Song\Trương Song\obj\Debug\netcoreapp3.1\Trương Song.genruntimeconfig.cache
